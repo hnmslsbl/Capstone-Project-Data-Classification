@@ -99,7 +99,7 @@ Pendekatan dilakukan dengan bantuan **IBM Granite Models** untuk mendukung anali
 ## 🔗 Link Penting
 - **Dataset**: [Kaggle – Diabetes Dataset for Beginners](https://www.kaggle.com/code/melikedilekci/diabetes-dataset-for-beginners/input)  
 - **Colab Notebook**: https://colab.research.google.com/drive/1tVY8RIPqsmUgctD2Oj_z2Df2IgioL7w9?usp=sharing  
-- **GitHub Repository**: [Link Repo kamu di sini]  
+- **GitHub Repository**: https://github.com/hnmslsbl/Capstone-Project-Data-Classification 
 
 ---
 

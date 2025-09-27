@@ -91,7 +91,7 @@ Pendekatan dilakukan dengan bantuan **IBM Granite Models** untuk mendukung anali
 ## 📂 Repository Content
 - `data/diabetes (1).csv` → dataset mentah  
 - `notebook/Capstone-Project.ipynb` → kode analisis di Colab  
-- `presentation/capstone_presentation_final.pptx` → presentasi proyek  
+- `presentation/Analisis Dataset Diabetes dengan IBM Granite.pdf` → presentasi proyek  
 - `README.md` → dokumentasi proyek  
 
 ---
